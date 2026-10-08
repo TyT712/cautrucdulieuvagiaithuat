@@ -1,0 +1,9 @@
+struct Node
+{
+    int val;  // data, giá trị của node
+    struct Node* next;  // con trỏ để chỉ tới node tiếp theo
+};
+struct LinkedList
+{
+    struct Node* head;  // con trỏ để chỉ tới node đầu tiên của danh sách liên kết
+};
