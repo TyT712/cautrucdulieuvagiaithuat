@@ -41,7 +41,7 @@ A.append(5)
 A.append(8)
 cur = A.head
 # print(cur.val)
-A.print_list()
+#A.print_list()
 # reverse
 
     
